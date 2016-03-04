@@ -5,7 +5,7 @@
 
 			<!-- BEGIN topics -->
 			<li>
-				<a data-placement="bottom" href="{config.relative_path}/topic/{topics.slug}" rel="tooltip" title="" data-original-title="{topics.category.numRecentReplies} replies">{topics.title}</a>
+				<a style="font-size: 150%" data-placement="bottom" href="{config.relative_path}/topic/{topics.slug}" rel="tooltip" title="" data-original-title="{topics.category.numRecentReplies} replies">{topics.title}</a>
 			</li>
 			<!-- END topics -->
 		</ul>
