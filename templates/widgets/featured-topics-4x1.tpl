@@ -1,13 +1,15 @@
-<h1>test</h1>
 <div class="row featured-threads" itemscope itemtype="http://www.schema.org/ItemList">
-	<!-- BEGIN topics -->
-	<div component="categories/category" class="<!-- IF topics.category.class -->{topics.category.class}<!-- ELSE -->col-md-3 col-sm-6 col-xs-12<!-- ENDIF topics.category.class --> category-item" data-cid="{topics.category.cid}" data-numRecentReplies="{topics.category.numRecentReplies}">
-		<meta itemprop="name" content="{topics.category.name}">
-			<a style="color: {topics.category.color};" href="{config.relative_path}/topic/{topics.slug}" itemprop="url">
 
-			</a>
-	</div>
-	<!-- END topics -->
+	<ul class="bs-docs-social-buttons">
+		<li>Latest Announcements:</li>
+
+		<!-- BEGIN topics -->
+		<li>
+			<a data-placement="bottom" href="{config.relative_path}/topic/{topics.slug}" rel="tooltip" title="" data-original-title="{topics.category.numRecentReplies} replies">New Senior Moderators!</a>
+		</li>
+		<!-- END topics -->
+	</ul>
+
 </div>
 <br />
 
