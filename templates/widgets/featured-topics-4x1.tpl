@@ -1,15 +1,15 @@
 <div class="row featured-threads" itemscope itemtype="http://www.schema.org/ItemList">
+	<div class="bs-docs-social">
+		<ul class="bs-docs-social-buttons">
+			<li>Latest Announcements:</li>
 
-	<ul class="bs-docs-social-buttons">
-		<li>Latest Announcements:</li>
-
-		<!-- BEGIN topics -->
-		<li>
-			<a data-placement="bottom" href="{config.relative_path}/topic/{topics.slug}" rel="tooltip" title="" data-original-title="{topics.category.numRecentReplies} replies">New Senior Moderators!</a>
-		</li>
-		<!-- END topics -->
-	</ul>
-
+			<!-- BEGIN topics -->
+			<li>
+				<a data-placement="bottom" href="{config.relative_path}/topic/{topics.slug}" rel="tooltip" title="" data-original-title="{topics.category.numRecentReplies} replies">{topics.category.name}</a>
+			</li>
+			<!-- END topics -->
+		</ul>
+	</div>
 </div>
 <br />
 
