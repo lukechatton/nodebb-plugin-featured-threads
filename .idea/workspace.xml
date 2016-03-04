@@ -2,7 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="c3875b78-c10e-4f25-b1b0-3fda02a02f99" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/templates/widgets/featured-topics-4x1.tpl" afterPath="$PROJECT_DIR$/templates/widgets/featured-topics-4x1.tpl" />
     </list>
     <ignored path="nodebb-plugin-featured-threads.iws" />
@@ -27,8 +26,8 @@
       <file leaf-file-name="featured-topics-4x1.tpl" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/templates/widgets/featured-topics-4x1.tpl">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.45053002">
-              <caret line="21" column="30" selection-start-line="21" selection-start-column="30" selection-end-line="21" selection-end-column="30" />
+            <state vertical-scroll-proportion="0.0">
+              <caret line="0" column="8" selection-start-line="0" selection-start-column="8" selection-end-line="0" selection-end-column="8" />
               <folding />
             </state>
           </provider>
@@ -219,8 +218,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/templates/widgets/featured-topics-4x1.tpl">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.45053002">
-          <caret line="21" column="30" selection-start-line="21" selection-start-column="30" selection-end-line="21" selection-end-column="30" />
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="8" selection-start-line="0" selection-start-column="8" selection-end-line="0" selection-end-column="8" />
           <folding />
         </state>
       </provider>
