@@ -17,7 +17,7 @@
 			if (data.tid) {
 				if (tids.indexOf(data.tid) === -1) {
 					db.listAppend('featured:tids', data.tid, function(){});
-					tids.push(data.tid);
+					tids.unshift(data.tid);
 				}
 			}
 
